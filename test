@@ -1,3 +1,6 @@
 this is the first line
 this is the second commit
+<<<<<<< HEAD
 this is the third commit
+this is the fourth commit
+>>>>>>> 1f2a1828e182eaee1ff332c9c4ab7025e36323f0
